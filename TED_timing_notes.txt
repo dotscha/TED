@@ -25,3 +25,5 @@ Vertical   Horizontal Comment                   Pixels         Clock    04 82 60
            384        End Of Scr reset                                  [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [. [] [] [] []
 000 - 202             Attribute fetch (1st)                            
 001 - 203             Attribute fetch (2nd)                            
+
+Based on: http://www.robotsandcomputers.com/computers/manuals/plus4_tech.pdf
